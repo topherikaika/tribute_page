@@ -1,4 +1,6 @@
 #image {
+  display: flex;
   max-width: auto;
   height: auto;
+  align-items: center;
 }
